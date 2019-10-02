@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://aman:asdf123@devconnector-shard-00-00-snwqe.mongodb.net:27017,devconnector-shard-00-01-snwqe.mongodb.net:27017,devconnector-shard-00-02-snwqe.mongodb.net:27017/test?ssl=true&replicaSet=DevConnector-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
